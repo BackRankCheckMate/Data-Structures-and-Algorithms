@@ -1,3 +1,10 @@
+/**
+ * This program implements Singly Linked List
+ * 
+ * @author Rhythm Babu Kafle
+ * Date: Before 12/25/2023
+ */
+
 package LinkedLists;
 
 class Node {

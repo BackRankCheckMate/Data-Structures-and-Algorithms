@@ -1,3 +1,10 @@
+/**
+ * This program implements doubly linked list
+ * 
+ * @author Rhythm Babu Kafle
+ * 12/25/2023
+ */
+
 package LinkedLists;
 
 class Node {
